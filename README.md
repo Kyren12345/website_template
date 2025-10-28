@@ -19,23 +19,24 @@ You now have a local copy of the workshop's repository.
 
 ## Step 3: Initialize the Respository by Adding a README.md
 
-1. Open the `README_Template.md` from Kyren's clonded **GitHub Workshop** folder.
-2. Copy the tempate and add the content to a `README.md` file in your **username.github.io** folder.
+1. Open the `README_Template.md` from Kyren's clonded **website_template** folder.
+2. Make a new `README.md` file in your **username.github.io** folder.
+3. Copy the tempate contents and paste the content to the `README.md` file in your **username.github.io** folder.
 3. Make your first **Commit**.
-4. Optional: Edit the `README.md` to fit your page. You can also do this later. Keep this template for future repositories you create.
+4. Do this later: Edit the `README.md` to fit your page. Keep this template for future repositories you create.
 
 ## Step 4: Copy the Website Template
 
-1. On your computer, open the cloned folder for the GitHub Pages repository (`username.github.io`).
-2. In another window, open the folder for the cloned **GitHub Workshop** repository.
-3. Navigate to the **Templates/Website Template** folder in the **GitHub Workshop** repository.
-4. Copy all the files (e.g., `index.html`, `about.html`, `style.css`, `script.js`, images) from the **Website Template** folder.
+1. On your computer, open the local cloned folder for the GitHub Pages repository (`username.github.io`).
+2. In another window, open the local folder for the cloned **website_template** repository.
+3. Navigate to your local cloned copy of the **website_template** repository.
+4. Copy all the files (e.g., `index.html`, `about.html`, `style.css`, `script.js`, images) from the **website_template** folder.
 5. Paste these files into the cloned folder for your GitHub Pages repository.
-6. In this folder, open `index.html` with your defualt internet browser to see what the page currently looks like.
+6. In your local folder for the GitHub Pages repository (`username.github.io`), open `index.html` with your defualt internet browser to see what the page currently looks like.
 
 ## Step 5: Edit the Website Template
 
-Now you’ll edit the template to personalize your website.
+Now you’ll edit the template to personalize your website by modifying the files in you local GitHub Pages repository (`username.github.io`).
 
 1. Open the `index.html` file in a text editor.
 
@@ -44,16 +45,15 @@ Now you’ll edit the template to personalize your website.
     <h1>John Doe</h1>
     <p>Data Scientist</p>
     ```
-3. Customize the **About Me** section with your own information in both `index.html` and `about.html`.
+3. Customize the **About Me** section with your own information in both `index.html` and `about.html` (just a quick change for demo purpuses, you can add more changed later)
     ```html
     <p>This is a paragraph about me!</p>
     <p>This is another paragraph about me!</p>
     ```
 
-
 4. Add links to any projects or content you'd like to showcase.
 
-### Changing the Images
+### Try this later: Change the Images and Appearance
 
 5. To change the profile picture or other images in your template:
    1. Replace the existing image file(s) in your repository (e.g., `me.jpg` or `unr.jpg`) with your own image files. Make sure the new images have the same file name as the originals, or update the file paths in `index.html` accordingly.
