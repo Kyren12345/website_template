@@ -3,7 +3,7 @@
 
 ## Step 1: Cloning the Repository
 
-1. Go to the following repository: [Cassandra's GitHub Workshop](https://github.com/cassandra-hui/GitHub-Workshop.git).
+1. Go to the following repository: [https://github.com/Kyren12345/website_template](https://github.com/Kyren12345/website_template).
 2. Click the **Code** button (green button) you can copy the repository URL under the HTTPS option and manually enter it or click on **Open with GitHub Desktop**.
 3. Check the **Local Path** location is where you want the new file to be located.
 4. Click **Clone**.
@@ -19,7 +19,7 @@ You now have a local copy of the workshop's repository.
 
 ## Step 3: Initialize the Respositry by Adding a README.md
 
-1. Open the `README_Template.md` from Cassandra's clonded **GitHub Workshop** folder.
+1. Open the `README_Template.md` from Kyren's clonded **GitHub Workshop** folder.
 2. Copy the tempate and add the content to a `README.md` file in your **username.github.io** folder.
 3. Make your first **Commit**.
 4. Optional: Edit the `README.md` to fit your page. You can also do this later. Keep this template for future repositories you create.
@@ -39,8 +39,6 @@ Now you’ll edit the template to personalize your website.
 
 1. Open the `index.html` file in a text editor.
 
-<img src="images/hero.png" alt="Description" width="300" style="padding:10px 20px 15px 5px;">
-
 2. Replace `NAME` and `TITLE` in the hero section with your own name and title. For example:
     ```html
     <h1>John Doe</h1>
@@ -51,7 +49,7 @@ Now you’ll edit the template to personalize your website.
     <p>This is a paragraph about me!</p>
     <p>This is another paragraph about me!</p>
     ```
-<img src="images/main.png" alt="Description" width="400" style="padding:10px 20px 15px 5px;">
+
 
 4. Add links to any projects or content you'd like to showcase.
 
