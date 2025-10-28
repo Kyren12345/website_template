@@ -17,7 +17,7 @@ You now have a local copy of the workshop's repository.
 3. Set the repository to **Public** and click **Create repository**.
 4. Clone this new repository to your local machine using **GitHub Desktop** the same way you did in Step 1.
 
-## Step 3: Initialize the Respositry by Adding a README.md
+## Step 3: Initialize the Respository by Adding a README.md
 
 1. Open the `README_Template.md` from Kyren's clonded **GitHub Workshop** folder.
 2. Copy the tempate and add the content to a `README.md` file in your **username.github.io** folder.
