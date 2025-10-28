@@ -84,3 +84,5 @@ Now you’ll edit the template to personalize your website.
 ## Done!
 
 You've successfully created a GitHub Pages site and published your site online.
+
+If you want to do Cassandra's full Github course find all the materials here: https://github.com/cassandra-hui/GitHub-Workshop
